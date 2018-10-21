@@ -33,6 +33,6 @@ public class Swastik {
 	}
 	
 	public static void main(String[] args) {
-		printSwastik(15,10);
+		printSwastik(15,15);
 	}
 }
